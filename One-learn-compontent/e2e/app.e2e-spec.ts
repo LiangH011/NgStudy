@@ -1,6 +1,6 @@
 import { AppPage } from './app.po';
 
-describe('template App', () => {
+describe('one-learn-compontent App', () => {
   let page: AppPage;
 
   beforeEach(() => {

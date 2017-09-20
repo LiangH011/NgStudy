@@ -1,0 +1,12 @@
+.saveable{
+    font-size: 18px;
+} 
+.modified {
+    font-weight: bold;
+}
+.special{
+    background-color: #3DC7DA;
+    color:#fff;
+    padding:10px;
+    margin: 10px 0;
+}

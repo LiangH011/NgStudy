@@ -1,0 +1,12 @@
+<div class="panel panel-primary">
+  <div class="panel-heading">*ngFor用法</div>
+  <div class="panel-body">
+    <h3>请选择一个种族</h3>
+    <ul>
+      <li *ngFor="let hero of heroes;let i=index;">
+       <span>id:{{i+1}}，</span>
+       <span>name:{{hero.name}}</span>
+      </li>
+    </ul>
+  </div>
+</div>
